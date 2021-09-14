@@ -28,15 +28,15 @@ const App3 = () => {
 
 var _StyledIcons = (0, _styledComponents.default)(_icons.default).withConfig({
   displayName: "code___StyledIcons",
-  componentId: "sc-1wxehft-0"
+  componentId: "sc-75plh0-0"
 })(["", ""], someCss);
 
 var _StyledIconsFoo = (0, _styledComponents.default)(_icons.default.Foo).withConfig({
   displayName: "code___StyledIconsFoo",
-  componentId: "sc-1wxehft-1"
+  componentId: "sc-75plh0-1"
 })(["", ""], someCss);
 
 var _StyledIconsFooBar = (0, _styledComponents.default)(_icons.default.Foo.Bar).withConfig({
   displayName: "code___StyledIconsFooBar",
-  componentId: "sc-1wxehft-2"
+  componentId: "sc-75plh0-2"
 })(["", ""], someCss);

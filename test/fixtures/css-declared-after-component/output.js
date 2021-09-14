@@ -8,5 +8,5 @@ const someCss = css(["color:red;"]);
 
 var _StyledDiv = _styled("div").withConfig({
   displayName: "code___StyledDiv",
-  componentId: "sc-7mydya-0"
+  componentId: "sc-1b6ysl4-0"
 })(["", ""], someCss);
